@@ -1,0 +1,10 @@
+# Environments
+venv/
+env/
+
+# API Keys & Secrets
+.env
+
+# Database & Cache
+mandiri_chroma_db/
+__pycache__/
