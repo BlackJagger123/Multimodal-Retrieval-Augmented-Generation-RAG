@@ -1,1 +1,1 @@
-# Multimodal-Retrieval-Augmented-Generation--RAG-
+# Multimodal-Retrieval-Augmented-Generation-RAG
