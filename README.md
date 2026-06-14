@@ -137,7 +137,7 @@ Digunakan untuk mengajukan pertanyaan berdasarkan dokumen yang telah diproses se
 Masuk ke folder Tugas B:
 
 ```bash
-cd Bagian-B-Layout-Aware-Text-Extraction
+cd Bagian-A-Multimodal-Retrieval-Augmented-Generation\app
 ```
 
 Jalankan Jupyter Notebook:
