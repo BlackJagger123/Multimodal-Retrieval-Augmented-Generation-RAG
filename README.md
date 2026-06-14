@@ -101,7 +101,7 @@ POPPLER_PATH=C:\poppler\Library\bin
 Masuk ke folder Tugas A:
 
 ```bash
-cd Bagian-A-Multimodal-Retrieval-Augmented-Generation
+cd Bagian-A-Multimodal-Retrieval-Augmented-Generation\app
 ```
 
 Jalankan FastAPI:
